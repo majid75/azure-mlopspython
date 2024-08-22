@@ -2,7 +2,7 @@
 page_type: sample
 languages:
 - python
-products:
+products: 
 - azure
 - azure-machine-learning-service
 - azure-devops
